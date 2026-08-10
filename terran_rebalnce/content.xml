@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="terran_rebalance" name="Terran Rebalance and Custom Thrusters" description="Restores 8.0 stats and adds Mk4 Thrusters" author="You" version="100" date="2026-06-28">
+  <text language="44" name="Terran Rebalance" description="Restores 8.0 stats and adds Mk4 Thrusters" />
+</content>

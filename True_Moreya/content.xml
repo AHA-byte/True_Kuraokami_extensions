@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="True_Kuraokami" name="True_Moreya" description="2 shields" author="AHA" version="100" date="2026-06-30" save="0">
+    <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"/>	
+</content>

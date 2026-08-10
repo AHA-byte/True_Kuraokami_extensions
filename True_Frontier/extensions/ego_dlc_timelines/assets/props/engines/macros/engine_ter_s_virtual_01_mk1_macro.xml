@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <replace sel="/macros/macro/properties/thrust/@forward">650</replace>
+  <replace sel="/macros/macro/properties/thrust/@reverse">840</replace>
+  <replace sel="/macros/macro/properties/boost/@thrust">8.5</replace>
+  <replace sel="/macros/macro/properties/boost/@duration">20</replace>
+  <replace sel="/macros/macro/properties/travel/@thrust">15.35</replace>
+  <replace sel="/macros/macro/properties/boost/@acceleration">8.8</replace>
+</diff>

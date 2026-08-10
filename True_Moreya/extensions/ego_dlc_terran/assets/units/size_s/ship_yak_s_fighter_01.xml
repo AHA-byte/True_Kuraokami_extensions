@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="con_shield_02" tags="advanced shield small ">
+      <offset>
+        <position x="0.0" y="-1.203412" z="-8.026274"/>
+        <quaternion qx="0.8433914" qy="1.34e-08" qz="4.33e-08" qw="-0.5372997"/>
+      </offset>
+    </connection>
+  </add>
+</diff>
