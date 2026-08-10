@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<content id="True_Kuraokami" name="True_Kuraokami" description="6 Weapons and 3 Turrets" author="AHA" version="100" date="2026-06-29" save="0">
-    <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"/>	
-</content>
