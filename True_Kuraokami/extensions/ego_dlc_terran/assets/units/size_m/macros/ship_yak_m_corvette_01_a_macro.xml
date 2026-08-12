@@ -15,5 +15,5 @@
 	<!-- Change Hull Points -->
 	<replace sel="/macros/macro/properties/hull/@max">17050</replace>
 	<!-- Change Crew Capacity -->
-	<replace sel="/macros/macro/properties/people/@capacity">15</replace>
+	<replace sel="/macros/macro/properties/people/@capacity">12</replace>
 </diff> 
