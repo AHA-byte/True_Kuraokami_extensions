@@ -13,7 +13,7 @@
 	<replace sel="//macros/macro/properties/physics/inertia/@yaw">2.05</replace>
 	<replace sel="//macros/macro/properties/physics/inertia/@pitch">2.05</replace>
 	<!-- Change Hull Points -->
-	<replace sel="/macros/macro/properties/hull/@max">16000</replace>
+	<replace sel="/macros/macro/properties/hull/@max">17000</replace>
 	<!-- Change Crew Capacity -->
 	<replace sel="/macros/macro/properties/people/@capacity">15</replace>
 </diff> 
