@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <replace sel="//components/component/connections/connection[@name='con_primaryweapon_01']/@tags">advanced combat highpower medium platformcollision weapon symmetry symmetry_right symmetry_1 </replace>
+  <replace sel="//components/component/connections/connection[@name='con_primaryweapon_02']/@tags">advanced combat highpower medium platformcollision weapon symmetry symmetry_right symmetry_2 </replace>
+  <replace sel="//components/component/connections/connection[@name='con_primaryweapon_03']/@tags">advanced combat highpower medium platformcollision weapon </replace>
+  <replace sel="//components/component/connections/connection[@name='con_primaryweapon_04']/@tags">advanced combat highpower medium platformcollision weapon symmetry symmetry_left symmetry_2 </replace>
+  <replace sel="//components/component/connections/connection[@name='con_primaryweapon_05']/@tags">advanced combat highpower medium platformcollision weapon symmetry symmetry_left symmetry_1 </replace>
+  
+  <add sel="/components/component/connections">
+    <connection name="con_primaryweapon_06" tags="advanced combat highpower medium platformcollision weapon ">
+      <offset>
+        <position x="0.0" y="5.75" z="5.288"/>
+		<quaternion qx="0.0" qy="0.0" qz="0.0" qw="0.0"/>
+      </offset>
+    </connection>
+  </add>
+
+  <add sel="/components/component/connections">
+    <connection name="con_turret_M01" tags="advanced combat medium platformcollision turret unhittable ">
+      <offset>
+        <position x="5.35" y="7.95" z="-11.0"/>
+        <quaternion qx="0.0" qy="0.0" qz="0.0" qw="0.0"/>
+      </offset>
+    </connection>
+  </add>
+    <add sel="/components/component/connections">
+    <connection name="con_turret_M02" tags="advanced combat medium platformcollision turret unhittable ">
+      <offset>
+        <position x="-5.35" y="7.95" z="-11.0"/>
+        <quaternion qx="0.0" qy="0.0" qz="0.0" qw="0.0"/>
+      </offset>
+    </connection>
+  </add>
+</diff>

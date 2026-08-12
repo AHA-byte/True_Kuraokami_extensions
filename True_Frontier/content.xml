@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<content id="True_Frontier" name="True_Frontier" description="25% better shield and engine stats for M Mk3 shield, S Mk1 shiekd, M Mk1 engine, S Mk1 engine" version="100" date="2026-06-30" save="0">
-    <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"/>	
-</content>
