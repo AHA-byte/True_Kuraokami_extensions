@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff> 
+	<replace sel="/macros/macro/properties/physics/@mass">12.0</replace>
+	<replace sel="//macros/macro/properties/physics/drag/@forward">3.0</replace>
+	<replace sel="//macros/macro/properties/physics/drag/@reverse">13.4</replace>
+	<replace sel="//macros/macro/properties/physics/drag/@horizontal">3.5</replace>
+	<replace sel="//macros/macro/properties/physics/drag/@vertical">3.5</replace>
+	<replace sel="//macros/macro/properties/physics/drag/@pitch">2.5</replace>
+	<replace sel="//macros/macro/properties/physics/drag/@yaw">3.65</replace>
+	<replace sel="//macros/macro/properties/physics/drag/@roll">3.5</replace>
+	<replace sel="//macros/macro/properties/physics/inertia/@roll">1.5</replace>
+	<replace sel="//macros/macro/properties/physics/inertia/@yaw">2.5</replace>
+	<replace sel="//macros/macro/properties/physics/inertia/@pitch">2.5</replace>
+	<!-- Change Hull Points -->
+	<replace sel="/macros/macro/properties/hull/@max">18000</replace>
+	<!-- Change Crew Capacity -->
+	<replace sel="/macros/macro/properties/people/@capacity">16</replace>
+</diff> 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="True_Regal" name="True_Regal" description="6 Weapons and 5 Turrets" author="AHA" version="100" date="2026-08-17" save="0">
+    <dependency id="ego_dlc_boron" optional="false" name="Cradle of Humanity"/>	
+</content>

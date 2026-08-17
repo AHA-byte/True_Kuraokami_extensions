@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="evil_hokkaido" name="Improved Hokkaido" description="Increase cargo capacity, shields and speed of Hokkaido L miners" author="Evil Tactician" version="121" date="2025-02-19" save="0">
+    <dependency id="ego_dlc_terran" optional="false" name="Cradle of Humanity"/>	
+</content>

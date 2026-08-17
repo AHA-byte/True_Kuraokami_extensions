@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff> 
+    <replace sel="/macros/macro/properties/physics/@mass">350</replace>
+    <replace sel="/macros/macro/properties/physics/drag/@forward">75</replace>
+    <replace sel="/macros/macro/properties/physics/drag/@reverse">375</replace>
+    <replace sel="/macros/macro/properties/physics/drag/@horizontal">125</replace>
+    <replace sel="/macros/macro/properties/physics/drag/@vertical">125</replace>
+    <replace sel="/macros/macro/properties/physics/drag/@pitch">450</replace>
+    <replace sel="/macros/macro/properties/physics/drag/@yaw">400</replace>
+    <replace sel="/macros/macro/properties/physics/drag/@roll">400</replace>
+    <replace sel="/macros/macro/properties/physics/inertia/@roll">650</replace>
+    <replace sel="/macros/macro/properties/physics/inertia/@yaw">1000</replace>
+    <replace sel="/macros/macro/properties/physics/inertia/@pitch">1000</replace>
+</diff>

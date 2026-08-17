@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff> 
+    <!-- Replaces the entire cargo node securely -->
+    <replace sel="/macros/macro/properties/cargo">
+        <cargo max="10000" tags="container" />
+    </replace>
+</diff>
